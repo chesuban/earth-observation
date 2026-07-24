@@ -1,0 +1,1 @@
+console.log("Hello, Earth Observation! This is a sample JavaScript code running in Colab.");
